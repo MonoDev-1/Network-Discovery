@@ -1,0 +1,5 @@
+platform
+psutil
+colorama
+json
+socket
